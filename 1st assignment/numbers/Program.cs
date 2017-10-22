@@ -31,8 +31,12 @@ namespace numbers
                 if(!(num % 100 == 0 && num %10 == 0)){
                     numE += " and ";
                     num = num%100;
-                    numE += c[num/10];
-                    numE += " " + a[num%10];
+                    if( num >10 && num < 20){
+                        numE+= b[num-10];
+                    }else{
+                        numE += c[num/10];
+                        numE += " " + a[num%10];
+                    }
                 }
             }
 
