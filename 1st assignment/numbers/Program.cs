@@ -16,7 +16,9 @@ namespace numbers
             Console.WriteLine("Please enter a number : ");
             int num = Convert.ToInt32(Console.ReadLine());
             string numE = "";
-            if(num<10){
+            if(num==0){
+                numE="Zero";
+            }else if(num<10){
                 numE = a[num];
             }else if(num < 20  && num != 10){
                 numE = b[num%10];
