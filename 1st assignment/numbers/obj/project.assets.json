@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ahmed/Dropbox/programing/c#/1st assignment/numbers/numbers.csproj",
+      "projectUniqueName": "/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/numbers/numbers.csproj",
       "projectName": "numbers",
-      "projectPath": "/home/ahmed/Dropbox/programing/c#/1st assignment/numbers/numbers.csproj",
+      "projectPath": "/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/numbers/numbers.csproj",
       "packagesPath": "/home/ahmed/.nuget/packages/",
-      "outputPath": "/home/ahmed/Dropbox/programing/c#/1st assignment/numbers/obj/",
+      "outputPath": "/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/numbers/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

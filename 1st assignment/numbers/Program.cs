@@ -10,7 +10,7 @@ namespace numbers
 		                    "eight", "nine" };
             string[] b = { "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen",
 		                    "sixteen", "seventeen", "eighteen", "nineteen" };
-            string[] c = { "", "ten", "twenty ", "thirty ", "fourty ", "fifty ", "sixty ",
+            string[] c = { "", "ten", "twenty ", "thirty nnn", "fourty ", "fifty ", "sixty ",
                             "seventy ", "eighty ", "ninty " };
             
             Console.WriteLine("Please enter a number : ");
