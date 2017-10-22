@@ -1,0 +1,10 @@
+/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/fintTheBit/obj/Debug/netcoreapp2.0/fintTheBit.csproj.CoreCompileInputs.cache
+/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/fintTheBit/obj/Debug/netcoreapp2.0/fintTheBit.AssemblyInfoInputs.cache
+/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/fintTheBit/obj/Debug/netcoreapp2.0/fintTheBit.AssemblyInfo.cs
+/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/fintTheBit/bin/Debug/netcoreapp2.0/fintTheBit.deps.json
+/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/fintTheBit/bin/Debug/netcoreapp2.0/fintTheBit.runtimeconfig.json
+/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/fintTheBit/bin/Debug/netcoreapp2.0/fintTheBit.runtimeconfig.dev.json
+/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/fintTheBit/bin/Debug/netcoreapp2.0/fintTheBit.dll
+/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/fintTheBit/bin/Debug/netcoreapp2.0/fintTheBit.pdb
+/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/fintTheBit/obj/Debug/netcoreapp2.0/fintTheBit.dll
+/home/ahmed/Dropbox/programing/c#/CSED_programming/1st assignment/fintTheBit/obj/Debug/netcoreapp2.0/fintTheBit.pdb
