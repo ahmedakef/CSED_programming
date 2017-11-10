@@ -1,0 +1,10 @@
+/home/ahmed/Dropbox/programing/c#/CSED_programming/3rd_assignment/studentsDregrees/obj/Debug/netcoreapp2.0/studentsDregrees.csproj.CoreCompileInputs.cache
+/home/ahmed/Dropbox/programing/c#/CSED_programming/3rd_assignment/studentsDregrees/obj/Debug/netcoreapp2.0/studentsDregrees.AssemblyInfoInputs.cache
+/home/ahmed/Dropbox/programing/c#/CSED_programming/3rd_assignment/studentsDregrees/obj/Debug/netcoreapp2.0/studentsDregrees.AssemblyInfo.cs
+/home/ahmed/Dropbox/programing/c#/CSED_programming/3rd_assignment/studentsDregrees/bin/Debug/netcoreapp2.0/studentsDregrees.deps.json
+/home/ahmed/Dropbox/programing/c#/CSED_programming/3rd_assignment/studentsDregrees/bin/Debug/netcoreapp2.0/studentsDregrees.runtimeconfig.json
+/home/ahmed/Dropbox/programing/c#/CSED_programming/3rd_assignment/studentsDregrees/bin/Debug/netcoreapp2.0/studentsDregrees.runtimeconfig.dev.json
+/home/ahmed/Dropbox/programing/c#/CSED_programming/3rd_assignment/studentsDregrees/bin/Debug/netcoreapp2.0/studentsDregrees.dll
+/home/ahmed/Dropbox/programing/c#/CSED_programming/3rd_assignment/studentsDregrees/bin/Debug/netcoreapp2.0/studentsDregrees.pdb
+/home/ahmed/Dropbox/programing/c#/CSED_programming/3rd_assignment/studentsDregrees/obj/Debug/netcoreapp2.0/studentsDregrees.dll
+/home/ahmed/Dropbox/programing/c#/CSED_programming/3rd_assignment/studentsDregrees/obj/Debug/netcoreapp2.0/studentsDregrees.pdb
