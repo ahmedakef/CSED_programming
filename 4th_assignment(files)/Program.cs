@@ -2,7 +2,7 @@
 
 namespace _4th_assignment_files_
 {
-    public interface File_interface {
+  public interface File_interface {
         int rename(string new_name);
         void delete();
         void open();
